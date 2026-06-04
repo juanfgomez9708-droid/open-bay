@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 40" fill="none">
+  <!-- Garage door icon -->
+  <rect x="2" y="4" width="28" height="32" rx="3" ry="3" stroke="#0B2545" stroke-width="2.5" fill="none"/>
+  <line x1="6" y1="14" x2="26" y2="14" stroke="#0B2545" stroke-width="2" stroke-linecap="round"/>
+  <line x1="6" y1="22" x2="26" y2="22" stroke="#0B2545" stroke-width="2" stroke-linecap="round"/>
+  <line x1="6" y1="30" x2="26" y2="30" stroke="#0B2545" stroke-width="2" stroke-linecap="round"/>
+  <!-- Checkmark accent -->
+  <polyline points="18,28 23,33 32,20" stroke="#2DBE7E" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <!-- Wordmark -->
+  <text x="42" y="28" font-family="Inter, system-ui, -apple-system, sans-serif" font-size="22" font-weight="700" fill="#0B2545">Open Bay</text>
+</svg>
